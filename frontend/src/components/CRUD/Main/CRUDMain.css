@@ -1,0 +1,7 @@
+.main__card-list {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-left: 0;
+  text-align: center;
+}
